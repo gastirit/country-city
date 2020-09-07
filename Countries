@@ -1,0 +1,251 @@
+{"_id":{"$oid":"5f567056d174ea46c713dde2"},"name":"Afghanistan","code":"AF"}
+{"_id":{"$oid":"5f567056d174ea46c713dde3"},"name":"Albania","code":"AL"}
+{"_id":{"$oid":"5f567056d174ea46c713dde4"},"name":"Algeria","code":"DZ"}
+{"_id":{"$oid":"5f567056d174ea46c713dde5"},"name":"American Samoa","code":"AS"}
+{"_id":{"$oid":"5f567056d174ea46c713dde6"},"name":"Andorra","code":"AD"}
+{"_id":{"$oid":"5f567056d174ea46c713dde7"},"name":"Angola","code":"AO"}
+{"_id":{"$oid":"5f567056d174ea46c713dde8"},"name":"Anguilla","code":"AI"}
+{"_id":{"$oid":"5f567056d174ea46c713dde9"},"name":"Antarctica","code":"AQ"}
+{"_id":{"$oid":"5f567056d174ea46c713ddea"},"name":"Antigua and Barbuda","code":"AG"}
+{"_id":{"$oid":"5f567056d174ea46c713ddeb"},"name":"Argentina","code":"AR"}
+{"_id":{"$oid":"5f567056d174ea46c713ddec"},"name":"Armenia","code":"AM"}
+{"_id":{"$oid":"5f567056d174ea46c713dded"},"name":"Aruba","code":"AW"}
+{"_id":{"$oid":"5f567056d174ea46c713ddee"},"name":"Australia","code":"AU"}
+{"_id":{"$oid":"5f567056d174ea46c713ddef"},"name":"Austria","code":"AT"}
+{"_id":{"$oid":"5f567056d174ea46c713ddf0"},"name":"Azerbaijan","code":"AZ"}
+{"_id":{"$oid":"5f567056d174ea46c713ddf1"},"name":"Bahamas","code":"BS"}
+{"_id":{"$oid":"5f567056d174ea46c713ddf2"},"name":"Bahrain","code":"BH"}
+{"_id":{"$oid":"5f567056d174ea46c713ddf3"},"name":"Bangladesh","code":"BD"}
+{"_id":{"$oid":"5f567056d174ea46c713ddf4"},"name":"Barbados","code":"BB"}
+{"_id":{"$oid":"5f567056d174ea46c713ddf5"},"name":"Belarus","code":"BY"}
+{"_id":{"$oid":"5f567056d174ea46c713ddf6"},"name":"Belgium","code":"BE"}
+{"_id":{"$oid":"5f567056d174ea46c713ddf7"},"name":"Belize","code":"BZ"}
+{"_id":{"$oid":"5f567056d174ea46c713ddf8"},"name":"Benin","code":"BJ"}
+{"_id":{"$oid":"5f567056d174ea46c713ddf9"},"name":"Bermuda","code":"BM"}
+{"_id":{"$oid":"5f567056d174ea46c713ddfa"},"name":"Bhutan","code":"BT"}
+{"_id":{"$oid":"5f567056d174ea46c713ddfb"},"name":"Bolivia","code":"BO"}
+{"_id":{"$oid":"5f567056d174ea46c713ddfc"},"name":"Bosnia and Herzegovina","code":"BA"}
+{"_id":{"$oid":"5f567056d174ea46c713ddfd"},"name":"Botswana","code":"BW"}
+{"_id":{"$oid":"5f567056d174ea46c713ddfe"},"name":"Bouvet Island","code":"BV"}
+{"_id":{"$oid":"5f567056d174ea46c713ddff"},"name":"Brazil","code":"BR"}
+{"_id":{"$oid":"5f567056d174ea46c713de00"},"name":"British Indian Ocean Territory","code":"IO"}
+{"_id":{"$oid":"5f567056d174ea46c713de01"},"name":"Brunei Darussalam","code":"BN"}
+{"_id":{"$oid":"5f567056d174ea46c713de02"},"name":"Bulgaria","code":"BG"}
+{"_id":{"$oid":"5f567056d174ea46c713de03"},"name":"Burkina Faso","code":"BF"}
+{"_id":{"$oid":"5f567056d174ea46c713de04"},"name":"Burundi","code":"BI"}
+{"_id":{"$oid":"5f567056d174ea46c713de05"},"name":"Bonaire, Saint Eustatius and Saba","code":"BQ"}
+{"_id":{"$oid":"5f567056d174ea46c713de06"},"name":"Cambodia","code":"KH"}
+{"_id":{"$oid":"5f567056d174ea46c713de07"},"name":"Cameroon","code":"CM"}
+{"_id":{"$oid":"5f567056d174ea46c713de08"},"name":"Canada","code":"CA"}
+{"_id":{"$oid":"5f567056d174ea46c713de09"},"name":"Cape Verde","code":"CV"}
+{"_id":{"$oid":"5f567056d174ea46c713de0a"},"name":"Cayman Islands","code":"KY"}
+{"_id":{"$oid":"5f567056d174ea46c713de0b"},"name":"Central African Republic","code":"CF"}
+{"_id":{"$oid":"5f567056d174ea46c713de0c"},"name":"Chad","code":"TD"}
+{"_id":{"$oid":"5f567056d174ea46c713de0d"},"name":"Chile","code":"CL"}
+{"_id":{"$oid":"5f567056d174ea46c713de0e"},"name":"China","code":"CN"}
+{"_id":{"$oid":"5f567056d174ea46c713de0f"},"name":"Christmas Island","code":"CX"}
+{"_id":{"$oid":"5f567056d174ea46c713de10"},"name":"Cocos (Keeling) Islands","code":"CC"}
+{"_id":{"$oid":"5f567056d174ea46c713de11"},"name":"Colombia","code":"CO"}
+{"_id":{"$oid":"5f567056d174ea46c713de12"},"name":"Comoros","code":"KM"}
+{"_id":{"$oid":"5f567056d174ea46c713de13"},"name":"Congo","code":"CG"}
+{"_id":{"$oid":"5f567056d174ea46c713de14"},"name":"Congo, The Democratic Republic of the","code":"CD"}
+{"_id":{"$oid":"5f567056d174ea46c713de15"},"name":"Cook Islands","code":"CK"}
+{"_id":{"$oid":"5f567056d174ea46c713de16"},"name":"Costa Rica","code":"CR"}
+{"_id":{"$oid":"5f567056d174ea46c713de17"},"name":"Cote D'Ivoire","code":"CI"}
+{"_id":{"$oid":"5f567056d174ea46c713de18"},"name":"Croatia","code":"HR"}
+{"_id":{"$oid":"5f567056d174ea46c713de19"},"name":"Cuba","code":"CU"}
+{"_id":{"$oid":"5f567056d174ea46c713de1a"},"name":"Curaçao","code":"CW"}
+{"_id":{"$oid":"5f567056d174ea46c713de1b"},"name":"Cyprus","code":"CY"}
+{"_id":{"$oid":"5f567056d174ea46c713de1c"},"name":"Czech Republic","code":"CZ"}
+{"_id":{"$oid":"5f567056d174ea46c713de1d"},"name":"Denmark","code":"DK"}
+{"_id":{"$oid":"5f567056d174ea46c713de1e"},"name":"Djibouti","code":"DJ"}
+{"_id":{"$oid":"5f567056d174ea46c713de1f"},"name":"Dominica","code":"DM"}
+{"_id":{"$oid":"5f567056d174ea46c713de20"},"name":"Dominican Republic","code":"DO"}
+{"_id":{"$oid":"5f567056d174ea46c713de21"},"name":"Ecuador","code":"EC"}
+{"_id":{"$oid":"5f567056d174ea46c713de22"},"name":"Egypt","code":"EG"}
+{"_id":{"$oid":"5f567056d174ea46c713de23"},"name":"El Salvador","code":"SV"}
+{"_id":{"$oid":"5f567056d174ea46c713de24"},"name":"Equatorial Guinea","code":"GQ"}
+{"_id":{"$oid":"5f567056d174ea46c713de25"},"name":"Eritrea","code":"ER"}
+{"_id":{"$oid":"5f567056d174ea46c713de26"},"name":"Estonia","code":"EE"}
+{"_id":{"$oid":"5f567056d174ea46c713de27"},"name":"Ethiopia","code":"ET"}
+{"_id":{"$oid":"5f567056d174ea46c713de28"},"name":"Falkland Islands (Malvinas)","code":"FK"}
+{"_id":{"$oid":"5f567056d174ea46c713de29"},"name":"Faroe Islands","code":"FO"}
+{"_id":{"$oid":"5f567056d174ea46c713de2a"},"name":"Fiji","code":"FJ"}
+{"_id":{"$oid":"5f567056d174ea46c713de2b"},"name":"Finland","code":"FI"}
+{"_id":{"$oid":"5f567056d174ea46c713de2c"},"name":"France","code":"FR"}
+{"_id":{"$oid":"5f567056d174ea46c713de2d"},"name":"French Guiana","code":"GF"}
+{"_id":{"$oid":"5f567056d174ea46c713de2e"},"name":"French Polynesia","code":"PF"}
+{"_id":{"$oid":"5f567056d174ea46c713de2f"},"name":"French Southern Territories","code":"TF"}
+{"_id":{"$oid":"5f567056d174ea46c713de30"},"name":"Gabon","code":"GA"}
+{"_id":{"$oid":"5f567056d174ea46c713de31"},"name":"Gambia","code":"GM"}
+{"_id":{"$oid":"5f567056d174ea46c713de32"},"name":"Georgia","code":"GE"}
+{"_id":{"$oid":"5f567056d174ea46c713de33"},"name":"Germany","code":"DE"}
+{"_id":{"$oid":"5f567056d174ea46c713de34"},"name":"Ghana","code":"GH"}
+{"_id":{"$oid":"5f567056d174ea46c713de35"},"name":"Gibraltar","code":"GI"}
+{"_id":{"$oid":"5f567056d174ea46c713de36"},"name":"Greece","code":"GR"}
+{"_id":{"$oid":"5f567056d174ea46c713de37"},"name":"Greenland","code":"GL"}
+{"_id":{"$oid":"5f567056d174ea46c713de38"},"name":"Grenada","code":"GD"}
+{"_id":{"$oid":"5f567056d174ea46c713de39"},"name":"Guadeloupe","code":"GP"}
+{"_id":{"$oid":"5f567056d174ea46c713de3a"},"name":"Guam","code":"GU"}
+{"_id":{"$oid":"5f567056d174ea46c713de3b"},"name":"Guatemala","code":"GT"}
+{"_id":{"$oid":"5f567056d174ea46c713de3c"},"name":"Guernsey","code":"GG"}
+{"_id":{"$oid":"5f567056d174ea46c713de3d"},"name":"Guinea","code":"GN"}
+{"_id":{"$oid":"5f567056d174ea46c713de3e"},"name":"Guinea-Bissau","code":"GW"}
+{"_id":{"$oid":"5f567056d174ea46c713de3f"},"name":"Guyana","code":"GY"}
+{"_id":{"$oid":"5f567056d174ea46c713de40"},"name":"Haiti","code":"HT"}
+{"_id":{"$oid":"5f567056d174ea46c713de41"},"name":"Heard Island and Mcdonald Islands","code":"HM"}
+{"_id":{"$oid":"5f567056d174ea46c713de42"},"name":"Holy See (Vatican City State)","code":"VA"}
+{"_id":{"$oid":"5f567056d174ea46c713de43"},"name":"Honduras","code":"HN"}
+{"_id":{"$oid":"5f567056d174ea46c713de44"},"name":"Hong Kong","code":"HK"}
+{"_id":{"$oid":"5f567056d174ea46c713de45"},"name":"Hungary","code":"HU"}
+{"_id":{"$oid":"5f567056d174ea46c713de46"},"name":"Iceland","code":"IS"}
+{"_id":{"$oid":"5f567056d174ea46c713de47"},"name":"India","code":"IN"}
+{"_id":{"$oid":"5f567056d174ea46c713de48"},"name":"Indonesia","code":"ID"}
+{"_id":{"$oid":"5f567056d174ea46c713de49"},"name":"Iran, Islamic Republic Of","code":"IR"}
+{"_id":{"$oid":"5f567056d174ea46c713de4a"},"name":"Iraq","code":"IQ"}
+{"_id":{"$oid":"5f567056d174ea46c713de4b"},"name":"Ireland","code":"IE"}
+{"_id":{"$oid":"5f567056d174ea46c713de4c"},"name":"Isle of Man","code":"IM"}
+{"_id":{"$oid":"5f567056d174ea46c713de4d"},"name":"Israel","code":"IL"}
+{"_id":{"$oid":"5f567056d174ea46c713de4e"},"name":"Italy","code":"IT"}
+{"_id":{"$oid":"5f567056d174ea46c713de4f"},"name":"Jamaica","code":"JM"}
+{"_id":{"$oid":"5f567056d174ea46c713de50"},"name":"Japan","code":"JP"}
+{"_id":{"$oid":"5f567056d174ea46c713de51"},"name":"Jersey","code":"JE"}
+{"_id":{"$oid":"5f567056d174ea46c713de52"},"name":"Jordan","code":"JO"}
+{"_id":{"$oid":"5f567056d174ea46c713de53"},"name":"Kazakhstan","code":"KZ"}
+{"_id":{"$oid":"5f567056d174ea46c713de54"},"name":"Kenya","code":"KE"}
+{"_id":{"$oid":"5f567056d174ea46c713de55"},"name":"Kiribati","code":"KI"}
+{"_id":{"$oid":"5f567056d174ea46c713de56"},"name":"Democratic People's Republic of Korea","code":"KP"}
+{"_id":{"$oid":"5f567056d174ea46c713de57"},"name":"Korea, Republic of","code":"KR"}
+{"_id":{"$oid":"5f567056d174ea46c713de58"},"name":"Kosovo","code":"XK"}
+{"_id":{"$oid":"5f567056d174ea46c713de59"},"name":"Kuwait","code":"KW"}
+{"_id":{"$oid":"5f567056d174ea46c713de5a"},"name":"Kyrgyzstan","code":"KG"}
+{"_id":{"$oid":"5f567056d174ea46c713de5b"},"name":"Lao People's Democratic Republic","code":"LA"}
+{"_id":{"$oid":"5f567056d174ea46c713de5c"},"name":"Latvia","code":"LV"}
+{"_id":{"$oid":"5f567056d174ea46c713de5d"},"name":"Lebanon","code":"LB"}
+{"_id":{"$oid":"5f567056d174ea46c713de5e"},"name":"Lesotho","code":"LS"}
+{"_id":{"$oid":"5f567056d174ea46c713de5f"},"name":"Liberia","code":"LR"}
+{"_id":{"$oid":"5f567056d174ea46c713de60"},"name":"Libyan Arab Jamahiriya","code":"LY"}
+{"_id":{"$oid":"5f567056d174ea46c713de61"},"name":"Liechtenstein","code":"LI"}
+{"_id":{"$oid":"5f567056d174ea46c713de62"},"name":"Lithuania","code":"LT"}
+{"_id":{"$oid":"5f567056d174ea46c713de63"},"name":"Luxembourg","code":"LU"}
+{"_id":{"$oid":"5f567056d174ea46c713de64"},"name":"Macao","code":"MO"}
+{"_id":{"$oid":"5f567056d174ea46c713de65"},"name":"North Macedonia","code":"MK"}
+{"_id":{"$oid":"5f567056d174ea46c713de66"},"name":"Madagascar","code":"MG"}
+{"_id":{"$oid":"5f567056d174ea46c713de67"},"name":"Malawi","code":"MW"}
+{"_id":{"$oid":"5f567056d174ea46c713de68"},"name":"Malaysia","code":"MY"}
+{"_id":{"$oid":"5f567056d174ea46c713de69"},"name":"Maldives","code":"MV"}
+{"_id":{"$oid":"5f567056d174ea46c713de6a"},"name":"Mali","code":"ML"}
+{"_id":{"$oid":"5f567056d174ea46c713de6b"},"name":"Malta","code":"MT"}
+{"_id":{"$oid":"5f567056d174ea46c713de6c"},"name":"Marshall Islands","code":"MH"}
+{"_id":{"$oid":"5f567056d174ea46c713de6d"},"name":"Martinique","code":"MQ"}
+{"_id":{"$oid":"5f567056d174ea46c713de6e"},"name":"Mauritania","code":"MR"}
+{"_id":{"$oid":"5f567056d174ea46c713de6f"},"name":"Mauritius","code":"MU"}
+{"_id":{"$oid":"5f567056d174ea46c713de70"},"name":"Mayotte","code":"YT"}
+{"_id":{"$oid":"5f567056d174ea46c713de71"},"name":"Mexico","code":"MX"}
+{"_id":{"$oid":"5f567056d174ea46c713de72"},"name":"Åland Islands","code":"AX"}
+{"_id":{"$oid":"5f567056d174ea46c713de73"},"name":"Micronesia, Federated States of","code":"FM"}
+{"_id":{"$oid":"5f567056d174ea46c713de74"},"name":"Moldova, Republic of","code":"MD"}
+{"_id":{"$oid":"5f567056d174ea46c713de75"},"name":"Mongolia","code":"MN"}
+{"_id":{"$oid":"5f567056d174ea46c713de76"},"name":"Monaco","code":"MC"}
+{"_id":{"$oid":"5f567056d174ea46c713de77"},"name":"Saint Martin","code":"MF"}
+{"_id":{"$oid":"5f567056d174ea46c713de78"},"name":"Sint Maarten","code":"SX"}
+{"_id":{"$oid":"5f567056d174ea46c713de79"},"name":"Montserrat","code":"MS"}
+{"_id":{"$oid":"5f567056d174ea46c713de7a"},"name":"Morocco","code":"MA"}
+{"_id":{"$oid":"5f567056d174ea46c713de7b"},"name":"Mozambique","code":"MZ"}
+{"_id":{"$oid":"5f567056d174ea46c713de7c"},"name":"Montenegro","code":"ME"}
+{"_id":{"$oid":"5f567056d174ea46c713de7d"},"name":"Myanmar","code":"MM"}
+{"_id":{"$oid":"5f567056d174ea46c713de7e"},"name":"Nauru","code":"NR"}
+{"_id":{"$oid":"5f567056d174ea46c713de7f"},"name":"Nepal","code":"NP"}
+{"_id":{"$oid":"5f567056d174ea46c713de80"},"name":"Netherlands","code":"NL"}
+{"_id":{"$oid":"5f567056d174ea46c713de81"},"name":"Netherlands Antilles","code":"AN"}
+{"_id":{"$oid":"5f567056d174ea46c713de82"},"name":"New Caledonia","code":"NC"}
+{"_id":{"$oid":"5f567056d174ea46c713de83"},"name":"Namibia","code":"NA"}
+{"_id":{"$oid":"5f567056d174ea46c713de84"},"name":"New Zealand","code":"NZ"}
+{"_id":{"$oid":"5f567056d174ea46c713de85"},"name":"Nicaragua","code":"NI"}
+{"_id":{"$oid":"5f567056d174ea46c713de86"},"name":"Nigeria","code":"NG"}
+{"_id":{"$oid":"5f567056d174ea46c713de87"},"name":"Niue","code":"NU"}
+{"_id":{"$oid":"5f567056d174ea46c713de88"},"name":"Niger","code":"NE"}
+{"_id":{"$oid":"5f567056d174ea46c713de89"},"name":"Norfolk Island","code":"NF"}
+{"_id":{"$oid":"5f567056d174ea46c713de8a"},"name":"Norway","code":"NO"}
+{"_id":{"$oid":"5f567056d174ea46c713de8b"},"name":"Pakistan","code":"PK"}
+{"_id":{"$oid":"5f567056d174ea46c713de8c"},"name":"Palau","code":"PW"}
+{"_id":{"$oid":"5f567056d174ea46c713de8d"},"name":"Palestinian Territory","code":"PS"}
+{"_id":{"$oid":"5f567056d174ea46c713de8e"},"name":"Papua New Guinea","code":"PG"}
+{"_id":{"$oid":"5f567056d174ea46c713de8f"},"name":"Paraguay","code":"PY"}
+{"_id":{"$oid":"5f567056d174ea46c713de90"},"name":"Panama","code":"PA"}
+{"_id":{"$oid":"5f567056d174ea46c713de91"},"name":"Philippines","code":"PH"}
+{"_id":{"$oid":"5f567056d174ea46c713de92"},"name":"Pitcairn","code":"PN"}
+{"_id":{"$oid":"5f567056d174ea46c713de93"},"name":"Poland","code":"PL"}
+{"_id":{"$oid":"5f567056d174ea46c713de94"},"name":"Portugal","code":"PT"}
+{"_id":{"$oid":"5f567056d174ea46c713de95"},"name":"Puerto Rico","code":"PR"}
+{"_id":{"$oid":"5f567056d174ea46c713de96"},"name":"Qatar","code":"QA"}
+{"_id":{"$oid":"5f567056d174ea46c713de97"},"name":"Oman","code":"OM"}
+{"_id":{"$oid":"5f567056d174ea46c713de98"},"name":"Romania","code":"RO"}
+{"_id":{"$oid":"5f567056d174ea46c713de99"},"name":"Russian Federation","code":"RU"}
+{"_id":{"$oid":"5f567056d174ea46c713de9a"},"name":"Rwanda","code":"RW"}
+{"_id":{"$oid":"5f567056d174ea46c713de9b"},"name":"Saint Helena","code":"SH"}
+{"_id":{"$oid":"5f567056d174ea46c713de9c"},"name":"Saint Barthélemy","code":"BL"}
+{"_id":{"$oid":"5f567056d174ea46c713de9d"},"name":"Saint Kitts and Nevis","code":"KN"}
+{"_id":{"$oid":"5f567056d174ea46c713de9e"},"name":"Peru","code":"PE"}
+{"_id":{"$oid":"5f567056d174ea46c713de9f"},"name":"Reunion","code":"RE"}
+{"_id":{"$oid":"5f567056d174ea46c713dea0"},"name":"Saint Vincent and the Grenadines","code":"VC"}
+{"_id":{"$oid":"5f567056d174ea46c713dea1"},"name":"Samoa","code":"WS"}
+{"_id":{"$oid":"5f567056d174ea46c713dea2"},"name":"San Marino","code":"SM"}
+{"_id":{"$oid":"5f567056d174ea46c713dea3"},"name":"Sao Tome and Principe","code":"ST"}
+{"_id":{"$oid":"5f567056d174ea46c713dea4"},"name":"Saudi Arabia","code":"SA"}
+{"_id":{"$oid":"5f567056d174ea46c713dea5"},"name":"Senegal","code":"SN"}
+{"_id":{"$oid":"5f567056d174ea46c713dea6"},"name":"Serbia","code":"RS"}
+{"_id":{"$oid":"5f567056d174ea46c713dea7"},"name":"Seychelles","code":"SC"}
+{"_id":{"$oid":"5f567056d174ea46c713dea8"},"name":"Sierra Leone","code":"SL"}
+{"_id":{"$oid":"5f567056d174ea46c713dea9"},"name":"Singapore","code":"SG"}
+{"_id":{"$oid":"5f567056d174ea46c713deaa"},"name":"Slovakia","code":"SK"}
+{"_id":{"$oid":"5f567056d174ea46c713deab"},"name":"Slovenia","code":"SI"}
+{"_id":{"$oid":"5f567056d174ea46c713deac"},"name":"Solomon Islands","code":"SB"}
+{"_id":{"$oid":"5f567056d174ea46c713dead"},"name":"Somalia","code":"SO"}
+{"_id":{"$oid":"5f567056d174ea46c713deae"},"name":"South Africa","code":"ZA"}
+{"_id":{"$oid":"5f567056d174ea46c713deaf"},"name":"South Georgia and the South Sandwich Islands","code":"GS"}
+{"_id":{"$oid":"5f567056d174ea46c713deb0"},"name":"Spain","code":"ES"}
+{"_id":{"$oid":"5f567056d174ea46c713deb1"},"name":"Sri Lanka","code":"LK"}
+{"_id":{"$oid":"5f567056d174ea46c713deb2"},"name":"Saint Lucia","code":"LC"}
+{"_id":{"$oid":"5f567056d174ea46c713deb3"},"name":"Saint Pierre and Miquelon","code":"PM"}
+{"_id":{"$oid":"5f567056d174ea46c713deb4"},"name":"Sudan","code":"SD"}
+{"_id":{"$oid":"5f567056d174ea46c713deb5"},"name":"South Sudan","code":"SS"}
+{"_id":{"$oid":"5f567056d174ea46c713deb6"},"name":"Suriname","code":"SR"}
+{"_id":{"$oid":"5f567056d174ea46c713deb7"},"name":"Svalbard and Jan Mayen","code":"SJ"}
+{"_id":{"$oid":"5f567056d174ea46c713deb8"},"name":"Swaziland","code":"SZ"}
+{"_id":{"$oid":"5f567056d174ea46c713deb9"},"name":"Syrian Arab Republic","code":"SY"}
+{"_id":{"$oid":"5f567056d174ea46c713deba"},"name":"Taiwan","code":"TW"}
+{"_id":{"$oid":"5f567056d174ea46c713debb"},"name":"Tajikistan","code":"TJ"}
+{"_id":{"$oid":"5f567056d174ea46c713debc"},"name":"Tanzania, United Republic of","code":"TZ"}
+{"_id":{"$oid":"5f567056d174ea46c713debd"},"name":"Thailand","code":"TH"}
+{"_id":{"$oid":"5f567056d174ea46c713debe"},"name":"Timor-Leste","code":"TL"}
+{"_id":{"$oid":"5f567056d174ea46c713debf"},"name":"Togo","code":"TG"}
+{"_id":{"$oid":"5f567056d174ea46c713dec0"},"name":"Tokelau","code":"TK"}
+{"_id":{"$oid":"5f567056d174ea46c713dec1"},"name":"Tonga","code":"TO"}
+{"_id":{"$oid":"5f567056d174ea46c713dec2"},"name":"Trinidad and Tobago","code":"TT"}
+{"_id":{"$oid":"5f567056d174ea46c713dec3"},"name":"Tunisia","code":"TN"}
+{"_id":{"$oid":"5f567056d174ea46c713dec4"},"name":"Turkey","code":"TR"}
+{"_id":{"$oid":"5f567056d174ea46c713dec5"},"name":"Turkmenistan","code":"TM"}
+{"_id":{"$oid":"5f567056d174ea46c713dec6"},"name":"Turks and Caicos Islands","code":"TC"}
+{"_id":{"$oid":"5f567056d174ea46c713dec7"},"name":"Tuvalu","code":"TV"}
+{"_id":{"$oid":"5f567056d174ea46c713dec8"},"name":"Uganda","code":"UG"}
+{"_id":{"$oid":"5f567056d174ea46c713dec9"},"name":"Ukraine","code":"UA"}
+{"_id":{"$oid":"5f567056d174ea46c713deca"},"name":"United Arab Emirates","code":"AE"}
+{"_id":{"$oid":"5f567056d174ea46c713decb"},"name":"Sweden","code":"SE"}
+{"_id":{"$oid":"5f567056d174ea46c713decc"},"name":"Switzerland","code":"CH"}
+{"_id":{"$oid":"5f567056d174ea46c713decd"},"name":"United Kingdom","code":"GB"}
+{"_id":{"$oid":"5f567056d174ea46c713dece"},"name":"United States","code":"US"}
+{"_id":{"$oid":"5f567056d174ea46c713decf"},"name":"United States Minor Outlying Islands","code":"UM"}
+{"_id":{"$oid":"5f567056d174ea46c713ded0"},"name":"Uruguay","code":"UY"}
+{"_id":{"$oid":"5f567056d174ea46c713ded1"},"name":"Uzbekistan","code":"UZ"}
+{"_id":{"$oid":"5f567056d174ea46c713ded2"},"name":"Viet Nam","code":"VN"}
+{"_id":{"$oid":"5f567056d174ea46c713ded3"},"name":"Virgin Islands, British","code":"VG"}
+{"_id":{"$oid":"5f567056d174ea46c713ded4"},"name":"Virgin Islands, U.S.","code":"VI"}
+{"_id":{"$oid":"5f567056d174ea46c713ded5"},"name":"Wallis and Futuna","code":"WF"}
+{"_id":{"$oid":"5f567056d174ea46c713ded6"},"name":"Western Sahara","code":"EH"}
+{"_id":{"$oid":"5f567056d174ea46c713ded7"},"name":"Yemen","code":"YE"}
+{"_id":{"$oid":"5f567056d174ea46c713ded8"},"name":"Vanuatu","code":"VU"}
+{"_id":{"$oid":"5f567056d174ea46c713ded9"},"name":"Zimbabwe","code":"ZW"}
+{"_id":{"$oid":"5f567056d174ea46c713deda"},"name":"Venezuela","code":"VE"}
+{"_id":{"$oid":"5f567056d174ea46c713dedb"},"name":"Zambia","code":"ZM"}
+{"_id":{"$oid":"5f567056d174ea46c713dedc"},"name":"Northern Mariana Islands","code":"MP"}
