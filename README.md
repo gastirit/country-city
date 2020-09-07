@@ -16,7 +16,7 @@
     
   >[ 
   >  { "name": "United Kingdom", 
-  >    "code": "GB" 
+  >    **"code": "GB"** 
   >  },
   >  { "name": "United States", 
   >    **"code": "US"** },
@@ -43,17 +43,23 @@
    >     "region": "Alabama"
    >   },
    >   {
-   >     "country": "US",
+   >     **"country": "US"**,
    >     "geonameid": 4054378,
    >     "name": "Center Point",
    >     "region": "Alabama"
    >   },
    >   {
-   >     "country": "US",
+   >     **"country": "US"**,
    >     "geonameid": 4058219,
    >     "name": "Daphne",
    >     "region": "Alabama"
-   >   }
+   >   },
+   >   {
+   >    **"country": "GB"**,
+   >    "geonameid": 2643743,
+   >    "name": "London",
+   >    "region": "England"
+   >  },
    >   ...
    >   ...
    >  ...
@@ -61,11 +67,13 @@
   
   
   
- For federal countries such as US,Russia,Brasil .. you can assume region is a state of this country and each name represents cities in this State.
- For the other countries, you can assume region is a large administrative city and name represents city/town/province of Region/District/State/ Largest Administrative City
+ For instance federal countries such as US,Russia,Brasil .. you can assume **region** is a state of this country and each **name** represents cities in this State.
+ For instance Great Britain (GB) which is a bit different than federal countries. In this case each **region** represents a country on this island of Great Britain, such as England, Wales,Scotland and Northern Ireland. And **name** represents name of city which belongs to that country.
+ For the other countries, you can assume **region** is a Region/District/State/Largest Administrative City and **name** represents city/town/province of Region/District/State/Largest Administrative City
+
  
  
 Feel free to use it. If you want me to update anything, just let me know.
 
-Enjoy coding.
+Happy coding.
       
